@@ -1,33 +1,45 @@
 # {Tutorial: Pick and place con URSim}
 
-Breve descripción del objetivo del tutorial y lo que el lector aprenderá al completarlo.
+El siguiente tutorial tiene como objetivo desarrollar "Pick and place" para el brazo róbotico colaborativo "UR5", todo el programa desarrollado a través de la aplicación oficial de Universal Robots "URSim" mismo programa el cual podrá ser utilizado en el robot físico.
+
+Así pues, a lo largo de este tutorial estudiaremos los distintos tipos de movimiento que el robot puede realizar, además, aprenderemos a configurar el entorno virtual, programar los movimientos del robot a realizar y ejecutar una sencilla tarea de recogida y colocación de objetos.
 
 ---
 
 ## 📋 Requisitos Previos
 
-- Conocimientos necesarios (e.g., programación básica, matemáticas, etc.)
-- Herramientas y software requeridos (e.g., Python, ROS, Arduino IDE)
-- Dependencias o bibliotecas a instalar
+- Instalación de URSim (guia de instalación: https://drive.google.com/file/d/1XBEqzTVAYYV9bFNBp0DkKGqSmh7_G8Jh/view?usp=sharing)
+- Computadora con 2 nucleos mínimo
+- 4 RAM mínimo
+- Recomendado tener gráfica 
 
 ---
 
 ## 📖  Introducción
 
-Explicación detallada del problema o tema que aborda el tutorial, su importancia y aplicaciones prácticas.
+Universal Robots (o mejor conocido como "UR") es una empresa danesa fundada en 2005, líder mundial en el desarrollo de robots colaborativos, robots los cuales, a diferencia de los robots industriales, están diseñados para trabajar junto con personas a su alrededor, esto al tener implementado protocolos y sistemas de seguridad en su programación, quitando la necesidad de implementar barreras físicas en el espacio de trabajo (en muchas aplicaciones).
+
+Así pues, el tema que abordaremos en este tutorial es el diseño y programación de una rutina "Pick and Place" en el entorno de simulación URSim. Para ello, primero debemos saber que es un "Pick and Place", el cual se refiere a una tarea fundamental y ampliamente utilizada dentro de la robótica industria, misma la cual consiste en tomar un objeto de un punto A y colocarlo en un punto B de forma automática, precisa y repetitiva, esto a través de distintos tipos de movimientos programados, movimientos que constan de 3 principales:
+- MoveL: consiste en un movimiento en línea recta del punto central de la herramienta a un punto deseado.
+- MoveJ: consiste en un movimiento a través de la rotación de las juntas del robot, se utiliza principalmente para mover el robot de la forma más rápida y efectiva posible.
+- MoveC: consiste en un movimiento circular del punto central de la herramienta a través de un arco deseado.
+
+Además, tenemos que saber que el robot puede poseer distintos tipos de herramienta, los cuales pueden ser:
+- Pistolas de pintura
+- Pinstolas de soldadura (tanto para soldadira en arco, como para soldadira de puntos)
+- Herramientas de sujeción
+- Herramientas de corte
+- Lasers
+- Ventosas
+- Artornilladores
+- Scaners
+- Fresadoras
+- Taladros
+  
+Entre otras herramientas, no obstante, la herramienta que nosotros utilizaremos para el "Pick and Place" serán unas pinzas de agarre.
 
 ---
 
-## 💾 Instalación
-
-Instrucciones para instalar las herramientas y dependencias necesarias:
-
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
----
 ## 🛠️ Configuración del Entorno
 
 Pasos para configurar el entorno de desarrollo:
