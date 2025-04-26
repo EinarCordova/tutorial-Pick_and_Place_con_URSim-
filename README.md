@@ -19,6 +19,12 @@ Así pues, a lo largo de este tutorial estudiaremos los distintos tipos de movim
 
 Universal Robots (o mejor conocido como "UR") es una empresa danesa fundada en 2005, líder mundial en el desarrollo de robots colaborativos, robots los cuales, a diferencia de los robots industriales, están diseñados para trabajar junto con personas a su alrededor, esto al tener implementado protocolos y sistemas de seguridad en su programación, quitando la necesidad de implementar barreras físicas en el espacio de trabajo (en muchas aplicaciones).
 
+<p align="center">
+  <img src="" alt="Image Open" style="width:50%;"> 
+</p>
+
+<p align="center"> Este es un repositorio para el control basico a base de una serie de movimientos programados para el dron DJI Tello.
+
 Así pues, el tema que abordaremos en este tutorial es el diseño y programación de una rutina "Pick and Place" en el entorno de simulación URSim. Para ello, primero debemos saber que es un "Pick and Place", el cual se refiere a una tarea fundamental y ampliamente utilizada dentro de la robótica industria, misma la cual consiste en tomar un objeto de un punto A y colocarlo en un punto B de forma automática, precisa y repetitiva, esto a través de distintos tipos de movimientos programados, movimientos que constan de 3 principales:
 - MoveL: consiste en un movimiento en línea recta del punto central de la herramienta a un punto deseado.
 - MoveJ: consiste en un movimiento a través de la rotación de las juntas del robot, se utiliza principalmente para mover el robot de la forma más rápida y efectiva posible.
