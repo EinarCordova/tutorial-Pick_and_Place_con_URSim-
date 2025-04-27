@@ -193,7 +193,23 @@ Para el cuarto movimiento ahora mandaremos al brazo al lugar donde dejaremos el 
   <img src="media/images/MoveJP2.png" alt="Image Open" style="width:35%;"> 
 </p>
 
+<p align="center"> Sección donde se puede configurar el cuarto movimiento
+
+**Paso 7:** Configurar el quinto movimiento
+
+Para el quinto movimiento y del mismo modo que lo hicimos anteriormente, bajaremos el brazo para dejarlo en el lugar deseado, todo esto a través de un "MoveL":
+
+<p align="center">
+  <img src="media/images/MoveL3.png" alt="Image Open" style="width:35%;"> 
+</p>
+
 <p align="center"> Sección donde se puede cambiar el tipo de movimiento
+
+<p align="center">
+  <img src="media/images/MoveLP3.png" alt="Image Open" style="width:35%;"> 
+</p>
+
+<p align="center"> Sección donde se puede configurar el quinto movimiento
   
 ---
 ## ✅ Conclusión
