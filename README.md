@@ -239,21 +239,23 @@ Ya tendremos nuestro programa completo, el cual ahora podremos simular. Para ell
 
 <p align="center"> Sección donde puedes visualizar la simulación
 
+Con esto habremos finalizado con nuestra programación del "UR5" para un programa "Pick and Place"
+
 ---
 ## ✅ Conclusión
 
-Resumen de lo aprendido y posibles extensiones o proyectos relacionados.
+En este tutorial aprendimos los distintos tipos de movimientos que realizar un robot industrial, además aprendimos sobre la interfaz de simulación del "URSim" a través de la programación del un "Pick and Place", mostrando paso a paso todos los movimientos que tiene que realizar el brazo "UR5" para poder realizar el programa.
+
+Este proyecto tuvo como principal proposito enseñar e interesar al lector a continuar programando el robot colabortivo "UR5", mostrando lo básico que se debe comprender para empezar en este mundo, con lo anterior dicho, ahora el lector puede interesarse aún más en los otros comandos que el "UR5" puede ofrecer, llegando a implmentar programas con sensores, realizar palets con el comando "Palet" o incluso agregar una estructura más compleja como con "If" o "While"
 
 ---
 
 ## 📚 Referencias y Recursos Adicionales
 
+https://www.universal-robots.com/download/software-cb-series/simulator-non-linux/offline-simulator-cb-series-non-linux-ursim-3158/
 
-Enlace a documentación oficial
+Guía de instalación de URSim: https://drive.google.com/file/d/1XBEqzTVAYYV9bFNBp0DkKGqSmh7_G8Jh/view?usp=sharing
 
-Tutoriales relacionados
-
-Repositorio de código fuente
 
 ---
 
@@ -261,5 +263,12 @@ Repositorio de código fuente
 
 Para preguntas o sugerencias:
 
-* 📧 Correo electrónico: ejemplo@correo.com
+* Asesor encargado de la página: César Martínez Torres
+  
+ 📧 Correo electrónico: cesar.martinez@udlap.mx
+
+* Redactor del tutorial: Einar Córdova Reyes
+  
+ 📧 Correo electrónico: einar.cor.rey@gmail.com
+  
 ---
