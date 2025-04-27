@@ -62,18 +62,24 @@ Pasos para configurar el entorno de desarrollo:
 ## 🏗️ Instrucciones
 **Paso 1:** Mandar el "UR" a su posición "home"
 
-Antes de comenzar a programar movimientos en el brazo robótico debemos moverlo en su posición "home", para ello damos click en la pestaña "move" y después damos click en la opción "home"
+Antes de comenzar a programar movimientos en el brazo robótico debemos moverlo en su posición "home", para ello damos click en la pestaña "move" y después damos click en la opción "home":
 
 <p align="center">
-  <img src="media/images/UR5.png" alt="Image Open" style="width:35%;"> 
+  <img src="media/images/home.png" alt="Image Open" style="width:35%;"> 
 </p>
 
-<p align="center"> UR5 fabricado por Universal Robots
+<p align="center"> Sección donde se encuentra la opción "home"
 
 
-**Paso 2:** Descripción del segundo paso
+**Paso 2:** Mandar al robot a "home" de manera automatica
 
-Más instrucciones y ejemplos según sea necesario.
+Despues de dar click a la opción "home", mandaremos al robot a esa posición de manera automática, para ello, le daremos click y mantendremos presionado en la sección que dice "Auto", cabe mencionar que la sección "Manual" es para mandar al robot a su posición "home" moviendolo de manera física:
+
+<p align="center">
+  <img src="media/images/home.png" alt="Image Open" style="width:35%;"> 
+</p>
+
+<p align="center"> Sección donde se encuentra la opción "home"
 
 ---
 ## ✅ Conclusión
