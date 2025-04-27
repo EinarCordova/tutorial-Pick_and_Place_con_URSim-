@@ -134,10 +134,10 @@ En esta sección podremos configurar los punto de paso, es decir, podemos mover 
 Aquí podremos mover el robot con las flechas que están disponibles o podremos directamente dar un ángulo especifico a cada articulación. Así pues y como lo habiamos mencionado anteriormente, ubicaremos el robot encima del objeto a tomar, para ello, yo utilicé la siguiente configuración para cada articulación:
 
 <p align="center">
-  <img src="media/images/PrimerP.png" alt="Image Open" style="width:35%;"> 
+  <img src="media/images/P1.png" alt="Image Open" style="width:35%;"> 
 </p>
 
-<p align="center"> Sección donde podemos mover el robot y configurar el primer punto de paso mover 
+<p align="center"> Primer movimiento a realizar del robot 
   
 ---
 ## ✅ Conclusión
