@@ -174,10 +174,26 @@ Una vez programado el segundo movimiento, ahora programaremos el tercer movimien
 <p align="center"> Sección donde se puede cambiar el tipo de movimiento
 
 <p align="center">
-  <img src="media/images/MoveLP2.png" alt="Image Open" style="width:35%;"> 
+  <img src="media/images/MoveLP2.1.png" alt="Image Open" style="width:35%;"> 
 </p>
 
 <p align="center"> Sección donde se puede configurar el tercer movimiento
+
+**Paso 6:** Configurar el cuarto movimiento
+
+Para el cuarto movimiento ahora mandaremos al brazo al lugar donde dejaremos el objeto tomado, para ello utilizaremos un "MoveJ" y, en mi caso, movere la base del robot 180°, así pues, agregamos un nuevo movimiento y configuramos el punto de paso:
+
+<p align="center">
+  <img src="media/images/MoveJ2.png" alt="Image Open" style="width:35%;"> 
+</p>
+
+<p align="center"> Sección donde se puede cambiar el tipo de movimiento
+
+<p align="center">
+  <img src="media/images/MoveJP2.png" alt="Image Open" style="width:35%;"> 
+</p>
+
+<p align="center"> Sección donde se puede cambiar el tipo de movimiento
   
 ---
 ## ✅ Conclusión
