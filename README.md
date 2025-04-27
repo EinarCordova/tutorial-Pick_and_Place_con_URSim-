@@ -50,16 +50,25 @@ Entre otras herramientas, no obstante, la herramienta que nosotros utilizaremos 
 
 Pasos para configurar el entorno de desarrollo:
 
-* Crear un directorio de trabajo.
+* Abriremos el simulador siguiendo la guía de instalación. 
 
-* Configurar variables de entorno.
+* Damos click en el simulador para "UR5"
 
-* Verificar la instalación de dependencias.
+* Seleccionamos la opción "program robot"
+  
+* Seleccionamos la opción "empty program"
+  
 ---
 ## 🏗️ Instrucciones
-**Paso 1:** Descripción del primer paso
+**Paso 1:** Mandar el "UR" a su posición "home"
 
-Instrucciones detalladas y código de ejemplo:
+Antes de comenzar a programar movimientos en el brazo robótico debemos moverlo en su posición "home", para ello damos click en la pestaña "move" y después damos click en la opción "home"
+
+<p align="center">
+  <img src="media/images/UR5.png" alt="Image Open" style="width:35%;"> 
+</p>
+
+<p align="center"> UR5 fabricado por Universal Robots
 
 
 **Paso 2:** Descripción del segundo paso
