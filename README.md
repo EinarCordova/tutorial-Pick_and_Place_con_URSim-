@@ -85,12 +85,19 @@ Despues de dar click a la opción "Home", mandaremos al robot a esa posición de
 
 Una vez posicionado el robot en "Home" podemos empezar a programar el primer movimiento, para ello daremos click en la sección "Program" y despues en "Structure":
 
-
 <p align="center">
-  <img src="media/images/Auto.png" alt="Image Open" style="width:35%;"> 
+  <img src="media/images/Movimiento.png" alt="Image Open" style="width:35%;"> 
 </p>
 
-<p align="center"> Sección donde se encuentra la opción "Auto"
+<p align="center"> Sección donde se encuentran las distintas opciones para programar el robot
+
+En esta sección encontraremos todas las funciones que puede realizar el robot dentro de la rutina. Así pues, nostros estamos interesados en el movimiento del robot, por lo tanto le damos click en la opción "Move":
+
+<p align="center">
+  <img src="media/images/Movimiento.png" alt="Image Open" style="width:35%;"> 
+</p>
+
+<p align="center"> Sección donde se encuentran las distintas opciones para programar el robot
   
 ---
 ## ✅ Conclusión
