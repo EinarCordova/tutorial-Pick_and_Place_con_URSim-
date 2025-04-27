@@ -145,12 +145,19 @@ Le demas click en "OK" y tendremos listo el primer movimiento.
 
 Una vez programado el primer movimiento, el resto se basa en el mismo procedimiento. Para el segundo movimeinto ahora utilizaremos un "MoveL", ya que ahora con acercaremos al objeto de manera lineal, entonces, de la misma forma agregamos otro comando "Move" y lo configuramos como "MoveL":
 
-
 <p align="center">
-  <img src="media/images/Movimiento.png" alt="Image Open" style="width:35%;"> 
+  <img src="media/images/MoveL.png" alt="Image Open" style="width:35%;"> 
 </p>
 
-<p align="center"> Sección donde se encuentran las distintas opciones para programar el robot
+<p align="center"> Sección donde se puede cambiar el tipo de movimiento
+
+Del mismo modo, en el arbol de programación se verá reflejado el cambia. Así pues, del mismo modo que lo hicimos anteriormente, configuramos el segundo punto de paso, por lo tanto, seleccionamos "Waypoint_2" y le damos click en "Set Waypoint". Dentro de esa pestaña yo configuramos un movimiento el cual se acerque al punto donde agarraría el objeto:
+
+<p align="center">
+  <img src="media/images/MoveL.png" alt="Image Open" style="width:35%;"> 
+</p>
+
+<p align="center"> Sección donde se puede cambiar el tipo de movimiento
   
 ---
 ## ✅ Conclusión
