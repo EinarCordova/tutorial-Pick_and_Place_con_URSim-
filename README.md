@@ -168,16 +168,16 @@ Cabe mencionar que en la simulación no poseemos comandos para simular una pinza
 Una vez programado el segundo movimiento, ahora programaremos el tercer movimiento, para ello, seguiremos el recorrido normal de un "Pick and Place", es decir, despues de bajar y tomar el objeto necesitamos de una salida para asegurarnos de que el robot no choque con ningún objeto del entorno, para ello solo movemeremos el brazo hacia arriba a través de un "MoveL", así pues, seguimos los mismos pasos anteriormente vistos:
 
 <p align="center">
-  <img src="media/images/MoveL.png" alt="Image Open" style="width:35%;"> 
+  <img src="media/images/MoveL2.png" alt="Image Open" style="width:35%;"> 
 </p>
 
 <p align="center"> Sección donde se puede cambiar el tipo de movimiento
 
 <p align="center">
-  <img src="media/images/MoveL.png" alt="Image Open" style="width:35%;"> 
+  <img src="media/images/MoveLP2.png" alt="Image Open" style="width:35%;"> 
 </p>
 
-<p align="center"> Sección donde se puede cambiar el tipo de movimiento
+<p align="center"> Sección donde se puede configurar el tercer movimiento
   
 ---
 ## ✅ Conclusión
