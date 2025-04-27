@@ -210,7 +210,25 @@ Para el quinto movimiento y del mismo modo que lo hicimos anteriormente, bajarem
 </p>
 
 <p align="center"> Sección donde se puede configurar el quinto movimiento
-  
+
+Aquí, fisicamente, podremos configurar la pinza para que abra.
+
+**Paso 8:** Configurar el sexto y último movimiento
+
+Para el sexto movimiento y ahora necesitamos la salida para que el brazo no choque con el entorno, para ello agregamos un "MoveL" y configuramos el punto del paso arriba de donde dejamos el objeto:
+
+<p align="center">
+  <img src="media/images/MoveL4.png" alt="Image Open" style="width:35%;"> 
+</p>
+
+<p align="center"> Sección donde se puede cambiar el tipo de movimiento
+
+<p align="center">
+  <img src="media/images/MoveLP4.png" alt="Image Open" style="width:35%;"> 
+</p>
+
+<p align="center"> Sección donde se puede configurar el sexto movimiento
+
 ---
 ## ✅ Conclusión
 
