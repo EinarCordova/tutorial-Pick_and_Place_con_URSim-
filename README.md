@@ -91,14 +91,28 @@ Una vez posicionado el robot en "Home" podemos empezar a programar el primer mov
 
 <p align="center"> Sección donde se encuentran las distintas opciones para programar el robot
 
-En esta sección encontraremos todas las funciones que puede realizar el robot dentro de la rutina. Así pues, nostros estamos interesados en el movimiento del robot, por lo tanto le damos click en la opción "Move":
+En esta sección encontraremos todas las funciones que puede realizar el robot dentro de la rutina. Así pues, nostros estamos interesados en el movimiento del robot, por lo tanto le damos click en la opción "Move". Después, nos aparecerá nuevas opciones en el arbol de programación, lo que nos indicará que se agregó el comando "Move" de manera correcta:
 
 <p align="center">
-  <img src="media/images/Movimiento.png" alt="Image Open" style="width:35%;"> 
+  <img src="media/images/MoveJ.png" alt="Image Open" style="width:35%;"> 
 </p>
 
-<p align="center"> Sección donde se encuentran las distintas opciones para programar el robot
+<p align="center"> Comando "Move" reflejado en el arbol de programación
   
+Cómo podemos ver, ahora podemos ver dos opciones: "MoveJ" y "Waypoint 1", comenzaremos a abordar el primer comando "MoveJ". Así pues, si damos click sobre el comando "MoveJ" y después damos click en la sección "Command", nos desplegará un menú donde podrás configurar el movimiento a realizar:
+
+<p align="center">
+  <img src="media/images/MoveJ.png" alt="Image Open" style="width:35%;"> 
+</p>
+
+<p align="center"> Comando "Move" reflejado en el arbol de programación
+  
+<p align="center">
+  <img src="media/images/MoveJ.png" alt="Image Open" style="width:35%;"> 
+</p>
+
+<p align="center"> Comando "Move" reflejado en el arbol de programación
+   
 ---
 ## ✅ Conclusión
 
