@@ -138,6 +138,19 @@ Aquí podremos mover el robot con las flechas que están disponibles o podremos 
 </p>
 
 <p align="center"> Primer movimiento a realizar del robot 
+
+Le demas click en "OK" y tendremos listo el primer movimiento.
+
+**Paso 4:** Configurar el segundo movimiento
+
+Una vez programado el primer movimiento, el resto se basa en el mismo procedimiento. Para el segundo movimeinto ahora utilizaremos un "MoveL", ya que ahora con acercaremos al objeto de manera lineal, entonces, de la misma forma agregamos otro comando "Move" y lo configuramos como "MoveL":
+
+
+<p align="center">
+  <img src="media/images/Movimiento.png" alt="Image Open" style="width:35%;"> 
+</p>
+
+<p align="center"> Sección donde se encuentran las distintas opciones para programar el robot
   
 ---
 ## ✅ Conclusión
