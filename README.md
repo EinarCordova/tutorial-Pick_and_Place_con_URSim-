@@ -28,7 +28,7 @@ Universal Robots (o mejor conocido como "UR") es una empresa danesa fundada en 2
 Así pues, el tema que abordaremos en este tutorial es el diseño y programación de una rutina "Pick and Place" en el entorno de simulación URSim. Para ello, primero debemos saber que es un "Pick and Place", el cual se refiere a una tarea fundamental y ampliamente utilizada dentro de la robótica industria, misma la cual consiste en tomar un objeto de un punto A y colocarlo en un punto B de forma automática, precisa y repetitiva, esto a través de distintos tipos de movimientos programados, movimientos que constan de 3 principales:
 - MoveL: consiste en un movimiento en línea recta del punto central de la herramienta a un punto deseado.
 - MoveJ: consiste en un movimiento a través de la rotación de las juntas del robot, se utiliza principalmente para mover el robot de la forma más rápida y efectiva posible.
-- MoveC: consiste en un movimiento circular del punto central de la herramienta a través de un arco deseado.
+- MoveP: consiste en un movimiento circular del punto central de la herramienta a través de un arco deseado.
 
 Además, tenemos que saber que el robot puede poseer distintos tipos de herramienta, los cuales pueden ser:
 - Pistolas de pintura
@@ -102,17 +102,27 @@ En esta sección encontraremos todas las funciones que puede realizar el robot d
 Cómo podemos ver, ahora podemos ver dos opciones: "MoveJ" y "Waypoint 1", comenzaremos a abordar el primer comando "MoveJ". Así pues, si damos click sobre el comando "MoveJ" y después damos click en la sección "Command", nos desplegará un menú donde podrás configurar el movimiento a realizar:
 
 <p align="center">
-  <img src="media/images/MoveJ.png" alt="Image Open" style="width:35%;"> 
+  <img src="media/images/MoveJP.png" alt="Image Open" style="width:35%;"> 
 </p>
 
-<p align="center"> Comando "Move" reflejado en el arbol de programación
+<p align="center"> Configuración "MoveJ"
   
 <p align="center">
-  <img src="media/images/MoveJ.png" alt="Image Open" style="width:35%;"> 
+  <img src="media/images/Command.png" alt="Image Open" style="width:35%;"> 
 </p>
 
-<p align="center"> Comando "Move" reflejado en el arbol de programación
-   
+<p align="center"> Sección donde puedes configurar "MoveJ"
+
+En esta sección puedes configurar tanto el tipo de movimiento (MoveJ, MoveL y MoveP), así como la velocidad y la acelareación de la articulación. En nuestro caso, dejaremos la misma configuración, con la velocidad, aceleración y el movimeinto ya establecidos.
+
+Así pues, una vez configurado el tipo de movimeinto, continuamos con la sección "Waypoint 1", para ello, le damos click en "Waypoint 1" y de la misma forma le damos click en la sección "Command":
+
+<p align="center">
+  <img src="media/images/Command.png" alt="Image Open" style="width:35%;"> 
+</p>
+
+<p align="center"> Sección donde puedes configurar "MoveJ"
+  
 ---
 ## ✅ Conclusión
 
