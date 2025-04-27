@@ -121,17 +121,23 @@ Así pues, una vez configurado el tipo de movimeinto, continuamos con la secció
   <img src="media/images/Waypoint.png" alt="Image Open" style="width:35%;"> 
 </p>
 
-<p align="center"> Sección donde puedes configurar el primer movimiento
+<p align="center"> Sección donde podemos configurar el primer movimiento
 
-En esta sección podremos configurar los punto de paso, es decir, podemos mover el robot para configurar el primer punto por el cual pasará el brazo:
+En esta sección podremos configurar los punto de paso, es decir, podemos mover el robot para configurar el primer punto por el cual pasará el brazo, para ello le damos click en "Set Waypoint":
 
 <p align="center">
   <img src="media/images/1Move.png" alt="Image Open" style="width:35%;"> 
 </p>
 
-<p align="center"> Sección donde puedes configurar el primer movimiento
+<p align="center"> Sección donde podemos mover el robot y configurar el primer punto de paso mover 
   
-. Por lo tanto, le damos click en "Set Waypoint", ubicaremos el brazo en una posicón la cual simule estar arriba del objeto a tomar,  
+Aquí podremos mover el robot con las flechas que están disponibles o podremos directamente dar un ángulo especifico a cada articulación. Así pues y como lo habiamos mencionado anteriormente, ubicaremos el robot encima del objeto a tomar, para ello, yo utilicé la siguiente configuración para cada articulación:
+
+<p align="center">
+  <img src="media/images/PrimerP.png" alt="Image Open" style="width:35%;"> 
+</p>
+
+<p align="center"> Sección donde podemos mover el robot y configurar el primer punto de paso mover 
   
 ---
 ## ✅ Conclusión
