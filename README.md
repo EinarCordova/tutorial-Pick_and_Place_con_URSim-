@@ -215,7 +215,7 @@ Aquí, fisicamente, podremos configurar la pinza para que abra.
 
 **Paso 8:** Configurar el sexto y último movimiento
 
-Para el sexto movimiento y ahora necesitamos la salida para que el brazo no choque con el entorno, para ello agregamos un "MoveL" y configuramos el punto del paso arriba de donde dejamos el objeto:
+Para el sexto movimiento ahora necesitamos la salida para que el brazo no choque con el entorno, para ello agregamos un "MoveL" y configuramos el punto del paso arriba de donde dejamos el objeto:
 
 <p align="center">
   <img src="media/images/MoveL4.png" alt="Image Open" style="width:35%;"> 
@@ -228,6 +228,16 @@ Para el sexto movimiento y ahora necesitamos la salida para que el brazo no choq
 </p>
 
 <p align="center"> Sección donde se puede configurar el sexto movimiento
+
+**Paso 9:** Simulación
+
+Ya tendremos nuestro programa completo, el cual ahora podremos simular. Para ello, nos vamos al apartado de "Graphics", le damos click en "Simulation" y la damos click en el boton de play:
+
+<p align="center">
+  <img src="media/images/Simulacion.png" alt="Image Open" style="width:35%;"> 
+</p>
+
+<p align="center"> Sección donde puedes visualizar la simulación
 
 ---
 ## ✅ Conclusión
