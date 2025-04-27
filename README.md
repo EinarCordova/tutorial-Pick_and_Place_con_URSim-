@@ -118,10 +118,20 @@ En esta sección puedes configurar tanto el tipo de movimiento (MoveJ, MoveL y M
 Así pues, una vez configurado el tipo de movimeinto, continuamos con la sección "Waypoint 1", para ello, le damos click en "Waypoint 1" y de la misma forma le damos click en la sección "Command":
 
 <p align="center">
-  <img src="media/images/Command.png" alt="Image Open" style="width:35%;"> 
+  <img src="media/images/Waypoint.png" alt="Image Open" style="width:35%;"> 
 </p>
 
-<p align="center"> Sección donde puedes configurar "MoveJ"
+<p align="center"> Sección donde puedes configurar el primer movimiento
+
+En esta sección podremos configurar los punto de paso, es decir, podemos mover el robot para configurar el primer punto por el cual pasará el brazo:
+
+<p align="center">
+  <img src="media/images/1Move.png" alt="Image Open" style="width:35%;"> 
+</p>
+
+<p align="center"> Sección donde puedes configurar el primer movimiento
+  
+. Por lo tanto, le damos click en "Set Waypoint", ubicaremos el brazo en una posicón la cual simule estar arriba del objeto a tomar,  
   
 ---
 ## ✅ Conclusión
