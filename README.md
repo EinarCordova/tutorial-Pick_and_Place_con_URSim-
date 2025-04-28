@@ -265,10 +265,10 @@ Para preguntas o sugerencias:
 
 * Asesor encargado de la página: César Martínez Torres
   
- 📧 Correo electrónico: cesar.martinez@udlap.mx
+   📧 Correo electrónico: cesar.martinez@udlap.mx
 
 * Redactor del tutorial: Einar Córdova Reyes
   
- 📧 Correo electrónico: einar.cor.rey@gmail.com
+   📧 Correo electrónico: einar.cor.rey@gmail.com
   
 ---
