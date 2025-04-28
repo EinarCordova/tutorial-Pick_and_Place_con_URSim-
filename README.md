@@ -8,7 +8,7 @@ Así pues, a lo largo de este tutorial estudiaremos los distintos tipos de movim
 
 ## 📋 Requisitos Previos
 
-- Instalación de URSim (guía de instalación: https://drive.google.com/file/d/1XBEqzTVAYYV9bFNBp0DkKGqSmh7_G8Jh/view?usp=sharing)
+- Instalación de URSim ([Guía de instalación de URSim](https://drive.google.com/file/d/1XBEqzTVAYYV9bFNBp0DkKGqSmh7_G8Jh/view?usp=sharing))
 - Computadora con 2 nucleos mínimo
 - 4 RAM mínimo
 - Recomendado tener gráfica 
@@ -19,11 +19,7 @@ Así pues, a lo largo de este tutorial estudiaremos los distintos tipos de movim
 
 Universal Robots (o mejor conocido como "UR") es una empresa danesa fundada en 2005, líder mundial en el desarrollo de robots colaborativos, robots los cuales, a diferencia de los robots industriales, están diseñados para trabajar junto con personas a su alrededor, esto al tener implementado protocolos y sistemas de seguridad en su programación, quitando la necesidad de implementar barreras físicas en el espacio de trabajo (en muchas aplicaciones).
 
-<p align="center">
-  <img src="media/images/UR5.png" alt="Image Open" style="width:35%;"> 
-</p>
-
-<p align="center"> UR5 fabricado por Universal Robots
+![UR5](https://github.com/EinarCordova/tutorial-Pick_and_Place_con_URSim-/blob/main/media/images/UR5.png)
 
 Así pues, el tema que abordaremos en este tutorial es el diseño y programación de una rutina "Pick and Place" en el entorno de simulación URSim. Para ello, primero debemos saber que es un "Pick and Place", el cual se refiere a una tarea fundamental y ampliamente utilizada dentro de la robótica industria, misma la cual consiste en tomar un objeto de un punto A y colocarlo en un punto B de forma automática, precisa y repetitiva, esto a través de distintos tipos de movimientos programados, movimientos que constan de 3 principales:
 - MoveL: consiste en un movimiento en línea recta del punto central de la herramienta a un punto deseado.
@@ -252,9 +248,9 @@ Este proyecto tuvo como principal proposito enseñar e interesar al lector a con
 
 ## 📚 Referencias y Recursos Adicionales
 
-https://www.universal-robots.com/download/software-cb-series/simulator-non-linux/offline-simulator-cb-series-non-linux-ursim-3158/
+[Sitio Oficial para descargar URSim](https://www.universal-robots.com/download/software-cb-series/simulator-non-linux/offline-simulator-cb-series-non-linux-ursim-3158/)
 
-Guía de instalación de URSim: https://drive.google.com/file/d/1XBEqzTVAYYV9bFNBp0DkKGqSmh7_G8Jh/view?usp=sharing
+[Guía de instalación de URSim](https://drive.google.com/file/d/1XBEqzTVAYYV9bFNBp0DkKGqSmh7_G8Jh/view?usp=sharing)
 
 
 ---
